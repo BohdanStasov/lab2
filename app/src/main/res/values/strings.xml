@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">lab2mobapp</string>
+    <string-array name="select_opt">
+        <item>chars</item>
+        <item>words</item>
+    </string-array>
+    <string name="select_chars">chars</string>
+    <string name="button_label">Count</string>
+    <string name="input_label">Type Your text here!</string>
+</resources>
